@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestRep</string>
+    <string name="to_login">To Login Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create">Create</string>
+    <string name="invalid_password">"Password is invalid"</string>
+    <string name="invalid_username">"User does not exist"</string>
+    <string name="valid_input">"Login successfully"</string>
+</resources>
